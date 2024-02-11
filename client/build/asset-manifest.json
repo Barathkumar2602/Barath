@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32741bd5.css",
+    "main.js": "/static/js/main.e8c55f69.js",
+    "static/js/592.599f76a2.chunk.js": "/static/js/592.599f76a2.chunk.js",
+    "static/media/barath1.jpg": "/static/media/barath1.84cc1b186122594a1abb.jpg",
+    "static/media/Barath final resume.pdf": "/static/media/Barath final resume.1e286e1dc4b72cb6dd0a.pdf",
+    "index.html": "/index.html",
+    "main.32741bd5.css.map": "/static/css/main.32741bd5.css.map",
+    "main.e8c55f69.js.map": "/static/js/main.e8c55f69.js.map",
+    "592.599f76a2.chunk.js.map": "/static/js/592.599f76a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32741bd5.css",
+    "static/js/main.e8c55f69.js"
+  ]
+}
